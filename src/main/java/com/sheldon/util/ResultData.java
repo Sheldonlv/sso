@@ -1,6 +1,7 @@
 package com.sheldon.util;
 
 /**
+ * 返回报文的数据格式
  * Created by Sheldon on 2019/8/24.
  * Project Name: sso.
  * Package Name: com.sheldon.util.
